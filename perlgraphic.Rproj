@@ -1,0 +1,26 @@
+Version: 1.0
+
+RestoreWorkspace: Yes
+SaveWorkspace: Yes
+AlwaysSaveHistory: Yes
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+RootDocument: readme.md
+
+AutoAppendNewline: Yes
+LineEndingConversion: Native
+
+BuildType: Website
+WebsitePath: ~/projects/perl/perlgraphic
+
+QuitChildProcessesOnExit: Yes
+
+PythonType: system
+PythonVersion: 2.7.18
+PythonPath: /usr/bin/python2

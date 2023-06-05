@@ -1,0 +1,508 @@
+# CHECKSUMS file written on Sat Jul 10 05:53:36 2021 GMT by CPAN::Checksums (v2.12)
+$cksum = {
+  'App-Prove-Plugin-PassEnv-0.001.meta' => {
+    'md5' => 'b9e299e422212debc572f141e6e02e3a',
+    'mtime' => '2019-03-14',
+    'sha256' => '5b5c50d05f2cdf40296de41197ac6b149725de3bb6b975e0037c181f0ecb2c39',
+    'size' => 6598
+  },
+  'App-Prove-Plugin-PassEnv-0.001.tar.gz' => {
+    'md5' => 'ab132c307a98318d06d410eeea799bc4',
+    'md5-ungz' => '01d024f402b6011456f0e52ec66da236',
+    'mtime' => '2019-03-14',
+    'sha256' => '06aed7c08e460c20043ae5e4627ae881416d8282260e62a611785cccfcfc7cdc',
+    'sha256-ungz' => '510303f6df043a3d4751698f471c066ecb107693fedca99f66a9a2e02968f72a',
+    'size' => 7804
+  },
+  'App-Prove-Plugin-PassEnv-0.002.meta' => {
+    'md5' => 'a47c69b52ae7e27df863e6b31c97b470',
+    'mtime' => '2019-03-15',
+    'sha256' => 'c6d48e9664a6a0054e005523b200240d0498b032a1ffb9f29e9d828166835256',
+    'size' => 6616
+  },
+  'App-Prove-Plugin-PassEnv-0.002.tar.gz' => {
+    'md5' => '8ca5ac2c080c35338027a208fc063742',
+    'md5-ungz' => '56af1eb6bc85a6d45734fec6a395ff79',
+    'mtime' => '2019-03-15',
+    'sha256' => 'bc8ee0513ab921af61eb76c4ff22dad6e3d8530b8c316b8e8054201c0d30a551',
+    'sha256-ungz' => '862d7a285a3ad7a18f96f1b3bbaa5af5f2f10ea6b7c56e9b9d45538495695243',
+    'size' => 7686
+  },
+  'Bundle-Camelcade-0.001.meta' => {
+    'md5' => '2e3229213b646a072cc0e25d665c365d',
+    'mtime' => '2019-03-14',
+    'sha256' => '32d0c8de6b37760b70b8675540903cc1a4a1828e4fca9fe2fa0bf384e5264ed4',
+    'size' => 7946
+  },
+  'Bundle-Camelcade-0.001.tar.gz' => {
+    'md5' => 'f288ee2ac0db9a4c179deb88c723c171',
+    'md5-ungz' => '588ecb240c94ea3191d0193eb50311d3',
+    'mtime' => '2019-03-14',
+    'sha256' => 'd45a151ad34518a0faeb6916340c0fd12526acc10784e7fe5dca88d44ff941b2',
+    'sha256-ungz' => '48e0e0a5c55a6a038fbb3ba1e269a61991d48424cf3a7bd2630ecec0872d4835',
+    'size' => 7729
+  },
+  'Class-Accessor-Lazy-1.003.meta' => {
+    'md5' => '639c171568db94f8b0ffdb1d10c234b6',
+    'mtime' => '2015-01-25',
+    'sha256' => 'a07beb388467f02e05b7f5be2dded56c3f8af4256db82a92f6fb49326a18465b',
+    'size' => 1538
+  },
+  'Class-Accessor-Lazy-1.003.tar.gz' => {
+    'md5' => '239b0d502a8747ca92a940e76f872906',
+    'md5-ungz' => '4d16cb9635cf69a6ebbecb23975baa23',
+    'mtime' => '2015-01-25',
+    'sha256' => 'b3166fa9a21d212cbc653ba77fb5cdbac68c29994eb20c1ad6662f9b9c9b4245',
+    'sha256-ungz' => 'a7d90a0a76494ffe1176551dd9c68aa7cabbb6f04372e0db4ccecdb7a0c811fe',
+    'size' => 6975
+  },
+  'Class-Property-1.002.meta' => {
+    'md5' => 'd334e9decce0fa60c60054cc4c06d6f7',
+    'mtime' => '2015-01-25',
+    'sha256' => 'dd1db45abb9b9cd530ee0a075cba53d1c11465286dcd371fca2171db655bc825',
+    'size' => 1443
+  },
+  'Class-Property-1.002.tar.gz' => {
+    'md5' => '0352179398f0160fd49355c64249e7bf',
+    'md5-ungz' => '54c4662bf79a82d839b1fe78cb721af2',
+    'mtime' => '2015-01-25',
+    'sha256' => 'bd47202e37ad2130426ce5cfe78555ece31eee98efad0a775c7528d13a942a9a',
+    'sha256-ungz' => '3b7c32d0cee5174b099a0d30aee0e06c3c34e517e9b723a44636f6160afd3995',
+    'size' => 10389
+  },
+  'Class-Variable-1.002.meta' => {
+    'md5' => 'd651e7d587950cf5fb4444bf7e8b199a',
+    'mtime' => '2015-01-25',
+    'sha256' => '8b48e3c92503ec3ce42a1b3c545673ac5bbfa1758331e39d20438cacfefc5910',
+    'size' => 1467
+  },
+  'Class-Variable-1.002.tar.gz' => {
+    'md5' => 'f6d2eb42ebff07c74facaa1c976716ba',
+    'md5-ungz' => '1caba266787dfa0149bc7c8afdcf6c58',
+    'mtime' => '2015-01-25',
+    'sha256' => '663265621efd708bc38d24a82fefcccfdd999f25f0030f013310eac66803a9fd',
+    'sha256-ungz' => 'f990a71fb62e9df204abc6a113cd6942e0e8b51d072ffc7e4499b1e52e84903c',
+    'size' => 5665
+  },
+  'DTL-Fast-1.620.meta' => {
+    'md5' => 'dede865b71cf362423b2c38c5c234def',
+    'mtime' => '2015-04-13',
+    'sha256' => '8f24aeab96b7f4d0cc879a0899abb2ab16b6ca4dca3cc64fe3304bdff7041a3f',
+    'size' => 1602
+  },
+  'DTL-Fast-1.620.tar.gz' => {
+    'md5' => 'fd3231c577722a83e34e79229c261036',
+    'md5-ungz' => '2b27acacf7aacd2b52f5ef68c67e70cb',
+    'mtime' => '2015-04-13',
+    'sha256' => 'e0eaa8d9ae7eb4e134229ce043bdcf8dca46e9a4f4c47172d7521b7a8dde5ed0',
+    'sha256-ungz' => '57f58be44d04e38aa24393f79eea8a6cd6c4d8adc67acd1fb9f44b1e23dd20da',
+    'size' => 127086
+  },
+  'DTL-Fast-1.622.meta' => {
+    'md5' => 'bcce7012cf2d737d56056525acab0169',
+    'mtime' => '2015-12-10',
+    'sha256' => '2709691e6150a150dbbfb017d13ea6f77276db7b6ac9a8c8b50c79116f7d00aa',
+    'size' => 1653
+  },
+  'DTL-Fast-1.622.tar.gz' => {
+    'md5' => '8d2e03cb044a433d1f51d6a43d3d7e52',
+    'md5-ungz' => 'b9c9541ba00f4a5c6071770d7921f3fd',
+    'mtime' => '2015-12-10',
+    'sha256' => '299f82a1b75a4a4315992d332ff3c4cbc301b18ce6474c0e7f1b55e42ca15199',
+    'sha256-ungz' => 'fc0279d66364029eb64e26bccf284464dfca4c2f9ae2ecf64d58889ffe6e3599',
+    'size' => 122379
+  },
+  'DTL-Fast-1.623.meta' => {
+    'md5' => '53758289caf6967cb5a599b560050ad5',
+    'mtime' => '2017-02-23',
+    'sha256' => '6773b55cc1a490a2085dd69d368c65d96e258fb1b59f1bc5481d6f1316f0cc56',
+    'size' => 1661
+  },
+  'DTL-Fast-1.623.tar.gz' => {
+    'md5' => 'a5002aaf69cf2df0356ddc27532ffd79',
+    'md5-ungz' => 'faeb157d748105befb319a2dedb043f2',
+    'mtime' => '2017-02-23',
+    'sha256' => 'b803eb3833a2ff604b9a6636b9675547d75bfc5cdbfed43bbb40576dd9d47c7c',
+    'sha256-ungz' => '086e5d245679fbc4ae96bd3699614ddce21922d0bb7bb4e439a1b446af73f108',
+    'size' => 125623
+  },
+  'DTL-Fast-2017.1.meta' => {
+    'md5' => '5a72781147a36e07a8573b0d4b1491da',
+    'mtime' => '2017-05-09',
+    'sha256' => '9f0ea6a6f76232d10731aab44c36c6d5ac93856423e21719a39ade4b76239f1e',
+    'size' => 1619
+  },
+  'DTL-Fast-2017.1.tar.gz' => {
+    'md5' => '504a6577e7e5d7f62668e17227f4dc39',
+    'md5-ungz' => '6b215fdb69fd143479bb46266437c3e9',
+    'mtime' => '2017-05-09',
+    'sha256' => '6fb3bb058a6dfeca450881f6a557ea39a7fdcb4cb6f4cef007f5a83a976b3c2d',
+    'sha256-ungz' => 'dbdc0acfe0d20a11a36afd36ed8471325c03f2f947f0f21f81534dd5404e5491',
+    'size' => 126438
+  },
+  'Devel-Camelcadedb-1.6.0.meta' => {
+    'md5' => 'f14c5f10da9f17ae4967141fe19c4e7d',
+    'mtime' => '2016-05-22',
+    'sha256' => '3ef6218a4b6a0a3cb8a61746a0a29e56d469465135c2ac956e237b189bfa7450',
+    'size' => 1423
+  },
+  'Devel-Camelcadedb-1.6.0.tar.gz' => {
+    'md5' => 'b1290d1074f68db150090b516d4874ef',
+    'md5-ungz' => '6edf59d8520c6707f1f88e2edb74b92a',
+    'mtime' => '2016-05-22',
+    'sha256' => '41093de84199b7d52ef81ee57195cb71afee72aec2af41df503acc4771953dc9',
+    'sha256-ungz' => '525f23421e9a008de62af0b7ee0ea1ce856d10622a0fdabd871876dc415740bf',
+    'size' => 16142
+  },
+  'Devel-Camelcadedb-1.6.1.0.meta' => {
+    'md5' => '8a73a7d35375cb02d1f16691d8cbda8b',
+    'mtime' => '2016-05-23',
+    'sha256' => '518f585abc1f2926935ab64791a3bb753245aa15effc55c8bd122709a800709d',
+    'size' => 1425
+  },
+  'Devel-Camelcadedb-1.6.1.0.tar.gz' => {
+    'md5' => 'b5b1aa6c4d7d7c45532e52d452de88b2',
+    'md5-ungz' => '89d73579fb57a2444d4ae926b6333419',
+    'mtime' => '2016-05-23',
+    'sha256' => 'b10a90921afdcad45cca964264651712d844409bc1f17c2f0e1c63c1f2b7f2d8',
+    'sha256-ungz' => '137236e8d6cc0b5df9fe4f0838293a8ba9167a2d92710d446c70f6f2e10b603e',
+    'size' => 16150
+  },
+  'Devel-Camelcadedb-1.6.1.1.meta' => {
+    'md5' => 'b6579342ab4db94913e366b65dac2ce1',
+    'mtime' => '2016-05-23',
+    'sha256' => '771ce5bccc49e0346fe7645912dd8679587dc39ad10c372c9be7f6d2314492a7',
+    'size' => 1425
+  },
+  'Devel-Camelcadedb-1.6.1.1.tar.gz' => {
+    'md5' => '434fc7528f93ae634b9dd99b0d97bc40',
+    'md5-ungz' => '4dd0cb8b505c60ef8d39f2cef22abbe9',
+    'mtime' => '2016-05-23',
+    'sha256' => '843dafef922621421f01f0f638ecb7c0fd998d594ced27aa6a9794e79dd1f415',
+    'sha256-ungz' => '64d7d53d932c619f7cd9d224ceb0d8e0142e30a7fd4a4dbf40d2cc9f82542d98',
+    'size' => 16158
+  },
+  'Devel-Camelcadedb-1.6.1.2.meta' => {
+    'md5' => '140bb775960a7d7bcda490a475e493ae',
+    'mtime' => '2016-06-03',
+    'sha256' => '0198fb093f2cd97ed9fceb39042b8b9f9687143e562fdd3a52304eadbe2f21c3',
+    'size' => 1425
+  },
+  'Devel-Camelcadedb-1.6.1.2.tar.gz' => {
+    'md5' => 'aaca6cca7ebee67c9707ee76e35f74a5',
+    'md5-ungz' => 'e1438a0043a18d429b6d2e25919dc531',
+    'mtime' => '2016-06-03',
+    'sha256' => 'db10c80a96822c84f19d4118ba66d672c42dc4fbb3e5d354539d28a14295d2cc',
+    'sha256-ungz' => '86aff1180eb4c1fdb2d7261f8b6e57af8ed97d70d86a40e45c37a09550ecf54b',
+    'size' => 16898
+  },
+  'Devel-Camelcadedb-1.6.1.4.meta' => {
+    'md5' => 'fe2934fae06f9a60108d2ba6627d5f49',
+    'mtime' => '2016-06-21',
+    'sha256' => 'b83b79371d62c4460824a51e5eb2c20b4d951b64bfee76352096cb7b56268add',
+    'size' => 1467
+  },
+  'Devel-Camelcadedb-1.6.1.4.tar.gz' => {
+    'md5' => '2b9b0dce4aadcfdf37589dc99b90d0aa',
+    'md5-ungz' => 'f598e7a426312d7d6df00e77ef3bcae8',
+    'mtime' => '2016-06-21',
+    'sha256' => '8705021e4f8d702d47b923d8d86503e7ec0a142e8af45356ebbe6121887f9dcc',
+    'sha256-ungz' => 'cf8e8416620dc0481b6ef22f4542725464c7259c847e870eb975bfdf43bf8768',
+    'size' => 16838
+  },
+  'Devel-Camelcadedb-1.6.1.5.meta' => {
+    'md5' => 'b8fc09f2451ba3dc92318a4db48b1dfd',
+    'mtime' => '2016-06-22',
+    'sha256' => 'bf8ff271805a36524833cacd9f9ee0ec8181523cf310cd6a4f3756755c63fd79',
+    'size' => 1467
+  },
+  'Devel-Camelcadedb-1.6.1.5.tar.gz' => {
+    'md5' => 'ab19d2e337cd0f7696e0053afaa78598',
+    'md5-ungz' => '545b17963451fcb6b6a4ead9ca6dfe69',
+    'mtime' => '2016-06-22',
+    'sha256' => 'f7472f3c356b9727cac4b2368098fba1dbe61c19fc6d52ccd71d3e91264cb7cd',
+    'sha256-ungz' => 'b891f503939c3ed42aa70f394d1070aa930d6817a5840887c2d11f4899d6a436',
+    'size' => 16979
+  },
+  'Devel-Camelcadedb-1.6.1.6.meta' => {
+    'md5' => 'b816e87bfb1899af526d4e65d9c40e09',
+    'mtime' => '2016-07-03',
+    'sha256' => '13a6399d852020014cf83124ba9b7ce8e0f913629ad4c7004115bbd960591087',
+    'size' => 1467
+  },
+  'Devel-Camelcadedb-1.6.1.6.tar.gz' => {
+    'md5' => '555b338aa6a87c147ad72c72f4c9e38f',
+    'md5-ungz' => '6fdbf1d6959710b24d81c809ad97990e',
+    'mtime' => '2016-07-03',
+    'sha256' => '267e5673962d79a670b763e35813a14097a8eac9f9e15328db7cced3583c6195',
+    'sha256-ungz' => '49a1a0f3e5c0f54185a5ce6fa7a233ba0af0a2834d9468b9733d63fdb8f42040',
+    'size' => 17089
+  },
+  'Devel-Camelcadedb-2017.1.1.meta' => {
+    'md5' => '5ee0ee5c5c89eaab3743c0d3ee0f519e',
+    'mtime' => '2017-06-08',
+    'sha256' => '24848de1194966e1e8ddf0302dd5e2fc91abb06b9fa00c47a952fda61003bce4',
+    'size' => 1528
+  },
+  'Devel-Camelcadedb-2017.1.1.tar.gz' => {
+    'md5' => '12d06fbc2bce3a3a2d78791fe1196df0',
+    'md5-ungz' => '7b487d6a34bc602a57b9b33816311f6b',
+    'mtime' => '2017-06-08',
+    'sha256' => '05ba1d5f4461e0db98f2331847bbac8dbc0af86d436dd3fea541a8f55407babd',
+    'sha256-ungz' => '302f1dfbd4bdbdb7e0f846079ea99487bdab45a30f659a0620c59d854ca26c23',
+    'size' => 18383
+  },
+  'Devel-Camelcadedb-2017.1.meta' => {
+    'md5' => '88a52caebef8621a08af22f288a25e05',
+    'mtime' => '2017-02-23',
+    'sha256' => '23d589904fd75abbfd76ed359935c09e0c7d57583ddf2525919e048bb60b80f5',
+    'size' => 1525
+  },
+  'Devel-Camelcadedb-2017.1.tar.gz' => {
+    'md5' => '9b3164e25aba1a5fcea61bceb3f84060',
+    'md5-ungz' => '666db799671f34ebee397adcf0e553ac',
+    'mtime' => '2017-02-23',
+    'sha256' => 'acd6fc60ed4cca0676cbc47fb312aea452bd4f2b6e3a7bb44ff7292f70bf75c7',
+    'sha256-ungz' => 'bb8052649577efde1c3040c81eed2f0bc11d2c3553340cc04e72fd5450f335b1',
+    'size' => 18354
+  },
+  'Devel-Camelcadedb-2017.100.2.meta' => {
+    'md5' => '22d637b54ed1c2694453a4741c4ad429',
+    'mtime' => '2017-06-23',
+    'sha256' => '45a9d70eec5ad46d5cffad3ec62b11ab36707fd83a17a02b66458a8717fec03b',
+    'size' => 1525
+  },
+  'Devel-Camelcadedb-2017.100.2.tar.gz' => {
+    'md5' => 'e7689d71511b93040a472d517905212c',
+    'md5-ungz' => '9f079b61af812e1c958985ceb0fd2c2e',
+    'mtime' => '2017-06-23',
+    'sha256' => 'c9cb7061989211dd9d6e9fb7adf2d719731ebf8e23d0d0ba6a0300e54db4d00b',
+    'sha256-ungz' => '1736368e255556d7c43482f9424049804340618b73eeebdca1d5482b693db062',
+    'size' => 18131
+  },
+  'Devel-Camelcadedb-2017.100.3.meta' => {
+    'md5' => '605ac7c514ad309ce6e72d3a330525f5',
+    'mtime' => '2017-12-29',
+    'sha256' => 'b1e9b17f8164549de7674861ab28032a365eb5ea0fcf44d6e36e408ed865ca51',
+    'size' => 1530
+  },
+  'Devel-Camelcadedb-2017.100.3.tar.gz' => {
+    'md5' => 'fdf279b453b42601162f001669fb519a',
+    'md5-ungz' => '05afc9f551504ae345dfad65dfd3417a',
+    'mtime' => '2017-12-29',
+    'sha256' => '4b9702a3044c52e96ff2dae09637aae00604ba3ea1a6036f5e4953e25e380b63',
+    'sha256-ungz' => '9400ec47cce87325d986b90078dcfd1934782dd017dc202639266b1324974f03',
+    'size' => 18543
+  },
+  'Devel-Camelcadedb-v2017.100.1.meta' => {
+    'md5' => 'b416c3a88115b642a2ca8fe5b099a5f3',
+    'mtime' => '2017-06-08',
+    'sha256' => 'aa37cb834ceedebc955102cf93962d65c8f73c79fca7fff4b1c7ff2c01b86d57',
+    'size' => 1530
+  },
+  'Devel-Camelcadedb-v2017.100.1.tar.gz' => {
+    'md5' => '6cc68c6a4cc1c6a6286bca01ff294fbc',
+    'md5-ungz' => '8a0f7112b5e67eef117bec979998a544',
+    'mtime' => '2017-06-08',
+    'sha256' => 'b376b5544f244acbf75eb7b2fd73a8d4ddcc43ba64d2a2bb1f5dd875132e28cc',
+    'sha256-ungz' => 'ad719050688557adb5fe01465e594ae3c8ff5282bb6d47f76d50093ea813f09f',
+    'size' => 18384
+  },
+  'Devel-Camelcadedb-v2018.3.0.meta' => {
+    'md5' => '961b61d83be166480cc8f7cf665f87cc',
+    'mtime' => '2018-11-19',
+    'sha256' => '27de9b36bc607b7620a8035e5fc2132838a82cbba50442b4a05d7040bec89bcf',
+    'size' => 1531
+  },
+  'Devel-Camelcadedb-v2018.3.0.tar.gz' => {
+    'md5' => 'c1a98dc7d70f1a28ef64de2cf7cc3e72',
+    'md5-ungz' => 'a12177efedd7551d7ab62098b436bc0b',
+    'mtime' => '2018-11-19',
+    'sha256' => '4c991fa2867e41b20dca4d06f208ed630aef1b7a26ed2c81bb0c61cded2c2b16',
+    'sha256-ungz' => '8fca4eae5abced1af9d64d80a730464fee4858c99f94f233cecb6b7e18dc87a5',
+    'size' => 18340
+  },
+  'Devel-Camelcadedb-v2019.1.meta' => {
+    'md5' => '944b15742e37d10034179eb40d90d25e',
+    'mtime' => '2019-02-15',
+    'sha256' => 'e2d789d1c7b51875502671b31c5531d1b13597e730a413c2901e6b1c61410674',
+    'size' => 1529
+  },
+  'Devel-Camelcadedb-v2019.1.tar.gz' => {
+    'md5' => '684abe484ae041c18454791a0f7adaf0',
+    'md5-ungz' => '4c9897dafcf45bdd0a5222a4eeacefe1',
+    'mtime' => '2019-02-15',
+    'sha256' => '91cd5d51384559b6821fc61768341f57443208a871461902a400d449c0e53f94',
+    'sha256-ungz' => '2e1369cfc46c9f8b58fea1b56acce81ff7a89f17814099feff960971ea5cd534',
+    'size' => 18842
+  },
+  'Devel-Camelcadedb-v2020.3.meta' => {
+    'md5' => '75c0bc1a9b3b70605d2f4d4fc2266de9',
+    'mtime' => '2020-12-16',
+    'sha256' => 'afeb149b37b60ef6c0c78eefe6766153f358f55553702d311c2aac70f6187c28',
+    'size' => 1521
+  },
+  'Devel-Camelcadedb-v2020.3.tar.gz' => {
+    'md5' => '786f63288369e002565bd80ac59446fe',
+    'md5-ungz' => '6000070c4b009d000989e9b124a109c5',
+    'mtime' => '2020-12-16',
+    'sha256' => '2c1ec70375e84f4f1168b4b9ae71a1d910d725bfc9d9caa433aac37361255ea0',
+    'sha256-ungz' => '0fe796f90da7c916508f1f6bf62476ef8df16af5b056d99bce1225b8e9bb9ae7',
+    'size' => 19119
+  },
+  'Devel-Camelcadedb-v2021.1.meta' => {
+    'md5' => 'abe44879fb1df465d5d40509c12ecd71',
+    'mtime' => '2021-06-15',
+    'sha256' => 'd4debe16f1630a3c2844233ad96318f6ad4466bcbe1ecd9acddeaab4213e31ec',
+    'size' => 1521
+  },
+  'Devel-Camelcadedb-v2021.1.tar.gz' => {
+    'md5' => '9cbb8fe03f5e63bf59229fa3747c355e',
+    'md5-ungz' => '5484a6c280472c611f2d7c34c19a5af2',
+    'mtime' => '2021-06-15',
+    'sha256' => 'fb2f923d6ab7572cafeea99cefb86414adf1c863ff7fa6d177a8bea4337a1ff0',
+    'sha256-ungz' => '0726ac0609487e1f8625c47f1f88b8c1add9cfc51b5cb6bf449c13d2910bea72',
+    'size' => 19251
+  },
+  'Devel-Camelcadedb-v2021.2.meta' => {
+    'md5' => '305230de387fffed4f21e5c34fef50b1',
+    'mtime' => '2021-07-09',
+    'sha256' => 'a0906c17fa6c29f3c1fcb24fe049b5832f0c7b9c60d06a4a20523612e3848582',
+    'size' => 1521
+  },
+  'Devel-Camelcadedb-v2021.2.tar.gz' => {
+    'md5' => '1760d19d0f9df883cd2dd9f8e9829499',
+    'md5-ungz' => '63719cb63baf4575eeff0a0988ec817f',
+    'mtime' => '2021-07-09',
+    'sha256' => '88a1d9e95d398ffe4d4114861e21c36f7c22315b3d03e7f764ccbce018ab3e47',
+    'sha256-ungz' => '5a3e79747c476f1b2a71c5a0ef14c60c5f061d0079be4143b574117e29ea8f30',
+    'size' => 19354
+  },
+  'TAP-Formatter-Camelcade-0.001.meta' => {
+    'md5' => '4381f0b861f5460d75d4eeff383e365b',
+    'mtime' => '2019-03-10',
+    'sha256' => 'f047e4b24ad009fdcc52369eeb6af8bb1600e8343b7879b0b49e9b807b87de6f',
+    'size' => 6728
+  },
+  'TAP-Formatter-Camelcade-0.001.tar.gz' => {
+    'md5' => '6a131daa7a93c10e7acb24961c3c0dbf',
+    'md5-ungz' => '7228a3e4f7a85270b3ece6f8e66d8a8c',
+    'mtime' => '2019-03-10',
+    'sha256' => 'a06335b33bd2cdb0f291af1920a19a2fbd713fc4d570fbd31d3348abeed48459',
+    'sha256-ungz' => '6eb589d076791190cef00f34add91f7328ab24e44d67f437c16c1df24c16404e',
+    'size' => 10270
+  },
+  'TAP-Formatter-Camelcade-0.002.meta' => {
+    'md5' => '567e8a4fd1864f9f9cb23ccf49da04e6',
+    'mtime' => '2019-03-10',
+    'sha256' => '1dcdc2800e7421bf0c6312c7ec67880187fd5a1a0bfed45043f34bfb2856bb1e',
+    'size' => 6709
+  },
+  'TAP-Formatter-Camelcade-0.002.tar.gz' => {
+    'md5' => '86a5121bbf2a9cb9d6efe9562150f6b4',
+    'md5-ungz' => 'deb22732409a8931676b2fab0c557d6b',
+    'mtime' => '2019-03-10',
+    'sha256' => 'b3e7cd456a2a39e409a1c94050d5fc5a00efcfec1ad947522be69c8a4d5ef202',
+    'sha256-ungz' => 'e234ea4e880d2683913902f3e23ff0bc162c3a64eea60f2970daf144172be8df',
+    'size' => 13984
+  },
+  'TAP-Formatter-Camelcade-0.003.meta' => {
+    'md5' => 'bff63f74fd2cadff7e3895e3d9239279',
+    'mtime' => '2019-03-11',
+    'sha256' => 'fba580f3b9923e9544d063a9abf6e0edec610f0908ba284e4b3948084a186486',
+    'size' => 6709
+  },
+  'TAP-Formatter-Camelcade-0.003.tar.gz' => {
+    'md5' => 'e0ecfbb789413ba79490abd510a01bad',
+    'md5-ungz' => '98a33cd4eca1cd8e77a458d072323d95',
+    'mtime' => '2019-03-11',
+    'sha256' => 'db5c3403e9e44e6f1bc38ae8221cafed5b26ba2b9b65f5d6975f16078dacf472',
+    'sha256-ungz' => '1e5888bcff94f28814cc56efbeeafc1ce15b106a0f5d01608c765a4b0c608c16',
+    'size' => 16237
+  },
+  'TAP-Formatter-Camelcade-0.004.meta' => {
+    'md5' => '28a5684906fa28fdce6bd8db0f50aba9',
+    'mtime' => '2019-03-12',
+    'sha256' => '30e6c588d4aab23a9a0391cfaec426ef328ff972aabca2c7bc293ff1cd11df61',
+    'size' => 6727
+  },
+  'TAP-Formatter-Camelcade-0.004.tar.gz' => {
+    'md5' => 'd0c82f57ead24bab873a470c41ea9fd2',
+    'md5-ungz' => '94bd0a6aabf4dbdfc14be8b73294d60b',
+    'mtime' => '2019-03-12',
+    'sha256' => '1a336317ec3cd70fd3020385d2ee2c4581068f1e381448d4227e0cb6ecc39e0e',
+    'sha256-ungz' => 'c719c2fc31448ed2ae774c550ff67c7f4a0af6544080d842143cc0198f081858',
+    'size' => 15915
+  },
+  'TAP-Formatter-Camelcade-0.005.meta' => {
+    'md5' => '95f17b26aaf2590fc808e04300f3d1f9',
+    'mtime' => '2019-03-13',
+    'sha256' => '8abaa17ead56135d7b33f01fac5df70c7c10ba907fff6c1d4b31f562bd731cfb',
+    'size' => 7137
+  },
+  'TAP-Formatter-Camelcade-0.005.tar.gz' => {
+    'md5' => 'f079897566db2c3d1d4eea500ee7c417',
+    'md5-ungz' => 'f2db2ea608e164362b40fab21ec4de6d',
+    'mtime' => '2019-03-13',
+    'sha256' => '4ca67058de5b02a4cfef3c33daae576ee7a3e813e59003fae105f00c1b4c6566',
+    'sha256-ungz' => '6a31fb915523e7c26eff03800fc4dae546713c873646f3f3d5d92cfbefe10802',
+    'size' => 16514
+  },
+  'TAP-Formatter-Camelcade-0.006.meta' => {
+    'md5' => 'cc101ff4d14f86de72731ffa1a819a4b',
+    'mtime' => '2019-03-15',
+    'sha256' => 'e9415324c6652b36a5ae34fdb0374a9a2c803fc9a15e9c1cbcd3b20e29d54002',
+    'size' => 7133
+  },
+  'TAP-Formatter-Camelcade-0.006.tar.gz' => {
+    'md5' => '7aa76196132f62438a5c36a279c7ff5b',
+    'md5-ungz' => '7f2a88c324fcefc8f74906aebb9f4f5f',
+    'mtime' => '2019-03-15',
+    'sha256' => 'c1672bfbe053f3db612d2338fd5b89ae01ae2dadcd18a41caafa8a425680bf5a',
+    'sha256-ungz' => 'eb1a88d41ad06ba15990b3d91d3fea04a4087e32e76a122aaa20c4baac98b929',
+    'size' => 16462
+  },
+  'TAP-Formatter-Camelcade-0.008.meta' => {
+    'md5' => '30b1039813055b8977ecad2ba4e37fd3',
+    'mtime' => '2019-03-15',
+    'sha256' => 'c65bbc2730200087ecd069d7f44a72d406fd080b4d8c218369d542d7e0803d91',
+    'size' => 7226
+  },
+  'TAP-Formatter-Camelcade-0.008.tar.gz' => {
+    'md5' => 'd62a7a503596c46766fcc84295c83dcf',
+    'md5-ungz' => 'a9d52f9d2ff6eb561ad66f75320eba7d',
+    'mtime' => '2019-03-15',
+    'sha256' => '19a9a778d2e77c0e4e33c4d563189385fa0b00d74453703d6253019a78ca52af',
+    'sha256-ungz' => '853995f08843c5617b1aeb6d22210077c56e30f5ad3fa60ea57a5741d8ed1a2c',
+    'size' => 17277
+  },
+  'TAP-Formatter-Camelcade-0.009.meta' => {
+    'md5' => 'f6afb6a677634d3798ca37870f62f1b6',
+    'mtime' => '2019-03-15',
+    'sha256' => 'ec4f9d6ddb76e83da539d1430ed9eb7e5ee7b5e50c5c00b5ed0fafe773c8add2',
+    'size' => 7226
+  },
+  'TAP-Formatter-Camelcade-0.009.tar.gz' => {
+    'md5' => 'a447fd91f8b154ae6945735a5de022f9',
+    'md5-ungz' => 'b3326f62f81f4a8031cacef715ba675d',
+    'mtime' => '2019-03-15',
+    'sha256' => '469c34d2c39e377e1d6626faf77feea674c728b6f39ff78e2f2c92827a8dbb98',
+    'sha256-ungz' => '513e26738284891a17aa4ad5f8770a1aec5c1d7b56a5ada6c174d84de2bf3833',
+    'size' => 21086
+  },
+  'TAP-Formatter-Camelcade-2021.1.meta' => {
+    'md5' => '7f91b2b7ef8eda3a2c3e4de1f37efb2a',
+    'mtime' => '2021-01-27',
+    'sha256' => '83b5c578b21f8e5cfc1df723a97f166edb4e477512e7d47a91e759e42df0e55a',
+    'size' => 7362
+  },
+  'TAP-Formatter-Camelcade-2021.1.tar.gz' => {
+    'md5' => 'bd479398b363df8df93df513e642c90a',
+    'md5-ungz' => '9fff824d78d6a68b05bbbd85ce3d96eb',
+    'mtime' => '2021-01-27',
+    'sha256' => '6b14237fd75c6070836f6cc4d6cc174fda5c1e36a22687d3f4ddee7053758673',
+    'sha256-ungz' => '5ae095c3ea608fbfb3c69333b26d71a12ab7885217da1f68e0ac3060e1fc4c58',
+    'size' => 22550
+  }
+};
+__END__
